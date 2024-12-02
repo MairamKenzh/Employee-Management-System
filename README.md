@@ -109,5 +109,5 @@ JavaFX for building interactive GUIs.
 The implementation of inheritance and polymorphism in a real-world scenario.
 ![Alt Text](M1.png)
 ![Alt Text](M2.png)
-![Alt Text](images/screenshot1.png)
-![Alt Text](images/screenshot1.png)
+![Alt Text](M3.png)
+![Alt Text](M4.png)
