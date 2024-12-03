@@ -16,32 +16,32 @@ The system uses object-oriented programming principles, ensuring modularity and 
 
 The interface displays a table with three columns:
 
-## Name: Employee's full name.
+### Name: Employee's full name.
 Type: The type of employee (Full-Time, Part-Time, or Contractor).
 Salary: Calculated salary based on employee type.
 Below the table are input fields and control buttons.
 Control Buttons:
 
-## Add Employee:
+### Add Employee:
 Adds a new employee to the system.
 Requires:
 
-## Name.
+### Name.
 *Type of employee (Full-Time, Part-Time, Contractor).*
 *Salary or hourly rate.*
 *Hours worked (if applicable).*
 
-## Update Salaries:
+### Update Salaries:
 Recalculates salaries for all employees in the list based on the provided details.
 
-## Remove Employee:
+### Remove Employee:
 Deletes the selected employee from the table.
 
 ## Calculate Salaries:
 Displays the total sum of salaries for all employees in a pop-up dialog.
 Instructions to Run the Application
 
-## Prerequisites:
+### Prerequisites:
 
 Install Java JDK 8 or higher.
 Install JavaFX SDK.
@@ -53,42 +53,42 @@ Run the HelloApplication.java file to launch the application.
 The main interface will load, displaying the empty table and controls.
 User Guide
 Step-by-Step Instructions
-## Adding Employees:
+### Adding Employees:
 
 Enter the employee’s name in the Enter Name field.
 Select the type of employee from the drop-down menu.
 Enter the salary or hourly rate in the Enter Salary / Rate field.
 For Part-Time and Contractor employees, enter the hours worked in the Enter Hours Worked field.
 Click the Add Employee button. The employee will appear in the table with their calculated salary.
-## Updating Salaries:
+### Updating Salaries:
 
 Click the Update Salaries button. This will recalculate salaries for all employees in the list based on the current details.
 Calculating Total Salaries:
 
 Click the Calculate Salaries button. A pop-up will display the total salaries of all employees.
-## Removing Employees:
+### Removing Employees:
 
 Select an employee from the table by clicking on their row.
 Click the Remove Employee button to delete them from the list.
 Sample Inputs
 
-## Full-Time Employee:
+### Full-Time Employee:
 Name: Erkeaiym Aidosova
 Type: Full-Time
 Salary: 70000
 Hours Worked: Not required.
-## Part-Time Employee:
+### Part-Time Employee:
 Name: Cholpon Khalibaeva
 Type: Part-Time
 Hourly Rate: 20
 Hours Worked: 216 (Results in 4320 salary).
-## Contractor:
+### Contractor:
 Name: Aiman Sadiev
 Type: Contractor
 Hourly Rate: 50
 Hours Worked: 150 (Salary capped at max hours allowed).
 
-### Screenshots
+# Screenshots
 # 1. Initial Screen
 The application starts with an empty table and input fields.
 
