@@ -107,7 +107,8 @@ The goal of this project is to provide an efficient system for managing employee
 The practical use of object-oriented programming (OOP).
 JavaFX for building interactive GUIs.
 The implementation of inheritance and polymorphism in a real-world scenario.
-![Alt Text](M1.png)
-![Alt Text](M2.png)
-![Alt Text](M3.png)
-![Alt Text](M4.png)
+![Alt Text](1.png)
+![Alt Text](2.png)
+![Alt Text](3.png)
+![Alt Text](4.png)
+![Alt Text](5.png)
