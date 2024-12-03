@@ -1,4 +1,4 @@
-### Employee Management System Documentation
+# Employee Management System Documentation
 ## Project Overview
 The Employee Management System is a desktop application built using JavaFX. 
 It allows users to manage employees of different types, calculate their salaries, update salary information, and remove employees.
@@ -12,11 +12,11 @@ The system uses object-oriented programming principles, ensuring modularity and 
 - Remove employees from the list.
 - How the Application Works
   
-## Main Window:
+# Main Window:
 
 The interface displays a table with three columns:
 
-Name: Employee's full name.
+## Name: Employee's full name.
 Type: The type of employee (Full-Time, Part-Time, or Contractor).
 Salary: Calculated salary based on employee type.
 Below the table are input fields and control buttons.
@@ -26,7 +26,7 @@ Control Buttons:
 Adds a new employee to the system.
 Requires:
 
-# Name.
+## Name.
 *Type of employee (Full-Time, Part-Time, Contractor).*
 *Salary or hourly rate.*
 *Hours worked (if applicable).*
@@ -41,12 +41,12 @@ Deletes the selected employee from the table.
 Displays the total sum of salaries for all employees in a pop-up dialog.
 Instructions to Run the Application
 
-### Prerequisites:
+## Prerequisites:
 
 Install Java JDK 8 or higher.
 Install JavaFX SDK.
 
-### Steps to Run:
+# Steps to Run:
 
 Download the project and import it into an IDE like IntelliJ IDEA or Eclipse.
 Run the HelloApplication.java file to launch the application.
